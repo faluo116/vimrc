@@ -16,3 +16,6 @@ https://github.com/scrooloose/nerdtree
 
 *Powerline*：
 https://github.com/Lokaltog/vim-powerline
+
+配置完以后，就是这样的。简简单单滴，多好……
+![myvim](http://faluosnote.net/upd/20151229/vim.jpg)
