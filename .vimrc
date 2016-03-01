@@ -35,4 +35,4 @@ augroup end
 
 set statusline=%=%F\ \%l/%L\ \%P\ -\ 
 
-call pathogen#infect()
+"call pathogen#infect()
